@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 matplotlib_practice.ipynb
+practice_ride_data.ipynb
+/resources/practice_ride_data.csv
