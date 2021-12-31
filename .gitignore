@@ -127,7 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-matplotlib_practice.ipynb
-practice_ride_data.ipynb
-/resources/practice_ride_data.csv
